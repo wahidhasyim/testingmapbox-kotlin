@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testingmapbox-kotlin</string>
+    <string name="access_token">pk.eyJ1Ijoid2FoaWRoYXN5aW0iLCJhIjoiY2tvdzdueGZvMDI4bTJvdDZ5ajE0aW9ybiJ9.fhOqzLAYDvw64COmwDGGWA</string>
+</resources>
